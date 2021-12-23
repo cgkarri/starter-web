@@ -1,2 +1,2 @@
 .IGNORE
-access.log
+/log
