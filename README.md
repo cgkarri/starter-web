@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 :q# Starter Web Project
 Sample web project
+=======
+# Starter Web Project
+Sample web project, more changes my feature bracnh2
+>>>>>>> myfeature
 ## Introduction
 Mild introduction
 ## Purpose
