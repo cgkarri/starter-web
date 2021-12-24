@@ -1,4 +1,4 @@
-# Starter Web Project
+:q# Starter Web Project
 Sample web project
 ## Introduction
 Mild introduction
