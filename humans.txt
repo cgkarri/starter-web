@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ganesh Karri ganesh@cipherg.com
 
 # THANKS
 
